@@ -77,7 +77,7 @@ if uploaded_file is not None:
     st.markdown("### 🔍 Result Preview")
     col1, col2 = st.columns(2)
     with col1:
-        st.image(processed_image, caption="Original Image", use_container_width=True)
+        st.image(image, caption="Original Image", use_container_width=True)
 
     with col2:
         st.image(processed_image, caption=f"After: {option}", use_container_width=True)
