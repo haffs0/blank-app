@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Interactive Image Processing App
 
 A simple Streamlit app template for you to modify!
 
